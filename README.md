@@ -4,6 +4,9 @@
  When Delete is Done than , Application take Id of Product and Delete that product from Databse and Show final Resultant Product 
  List . This is Spring Backend Project .
 here is Sreen Shots of my Project
+
+Tech Stack Used :- Spring Framework, MySql, Hibernate , java, Jsp , Maven
+
 ![Screenshot (86)](https://github.com/Navin123kishor/ProductManagment/assets/103249279/f34e8e91-6fd8-4097-a33f-33c85dfab88d)
 ![Screenshot (87)](https://github.com/Navin123kishor/ProductManagment/assets/103249279/2b125814-9262-445b-808e-04b8addf684e)
 ![Screenshot (88)](https://github.com/Navin123kishor/ProductManagment/assets/103249279/22b6e840-64ef-462d-ba04-71a0c3668153)
